@@ -45,7 +45,7 @@
 	margin: 7px 0 3px 40px;
 }
 
-@media screen and (max-width: 600px) {
+screen and (max-width: 600px) {
 
 	.container .filters {
 		flex-direction: column;
